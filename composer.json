@@ -1,0 +1,8 @@
+{
+    "require": {
+        "drupal/coder": "^8.3.1",
+        "squizlabs/php_codesniffer": "*",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+        "phpmd/phpmd": "^2.7"
+    }
+}
