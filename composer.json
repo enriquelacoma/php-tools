@@ -6,13 +6,10 @@
     },
     "config": {
         "allow-plugins": {
-            "dealerdirect/phpcodesniffer-composer-installer": true,
-            "phpstan/extension-installer": true
+            "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
     "require-dev": {
-        "phpstan/phpstan": "^1.7",
-        "phpstan/extension-installer": "^1.1",
-        "phpstan/phpstan-deprecation-rules": "^1.0"
+        "phpcompatibility/php-compatibility": "*"
     }
 }
